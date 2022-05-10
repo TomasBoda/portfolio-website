@@ -1,0 +1,21 @@
+<svg id="Component_10_1" data-name="Component 10 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1199" height="1132" viewBox="0 0 1199 1132">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.809" y2="0.893" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2188ff"/>
+      <stop offset="1" stop-color="#804eda"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Component_8_2" data-name="Component 8 – 2" transform="translate(583 317)">
+    <path id="Polygon_2" data-name="Polygon 2" d="M293,0,586,498H0Z" transform="translate(30)" fill="url(#linear-gradient)"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M293,0,586,498H0Z" transform="translate(0 30)"/>
+  </g>
+  <g id="Component_9_2" data-name="Component 9 – 2" transform="translate(186)">
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="249" cy="249" r="249" transform="translate(30)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_21" data-name="Ellipse 21" cx="249" cy="249" r="249" transform="translate(0 30)"/>
+  </g>
+  <g id="Component_6_2" data-name="Component 6 – 2" transform="translate(0 604)">
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="498" height="498" transform="translate(30)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_69" data-name="Rectangle 69" width="498" height="498" transform="translate(0 30)"/>
+  </g>
+</svg>
